@@ -18,7 +18,7 @@
           Welcome to Idris Lawal Page
         </v-card-title>
         <v-card-text>
-          <v-form v-model="valid">
+          <v-form netlify v-model="valid">
     <v-container>
       <v-row>
         <v-col
